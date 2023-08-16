@@ -27,11 +27,11 @@ int main (){
     int num1 , num2 , num3;
 
     printf( "Input Num1 :" );
-    scanf( "%d",num1 );
+    scanf( "%d",&num1 );
     printf( "Input Num2 :" );
-    scanf( "%d",num2 );
+    scanf( "%d",&num2 );
     printf( "Input Num3 :" );
-    scanf( "%d",num3 );
+    scanf( "%d",&num3 );
 
     printf("1st Number = %d\n", num1);
     printf("2nd Number = %d\n", num2);
